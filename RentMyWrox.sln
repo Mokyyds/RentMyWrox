@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentMyWrox", "RentMyWrox\RentMyWrox.csproj", "{D7162295-F5D0-471E-BA42-BEA65FCF713D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentMyWrox.Tests", "RentMyWrox.Tests\RentMyWrox.Tests.csproj", "{340F2FDB-366D-4A1B-94FA-DCECEB7644BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7162295-F5D0-471E-BA42-BEA65FCF713D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7162295-F5D0-471E-BA42-BEA65FCF713D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7162295-F5D0-471E-BA42-BEA65FCF713D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7162295-F5D0-471E-BA42-BEA65FCF713D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340F2FDB-366D-4A1B-94FA-DCECEB7644BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340F2FDB-366D-4A1B-94FA-DCECEB7644BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340F2FDB-366D-4A1B-94FA-DCECEB7644BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340F2FDB-366D-4A1B-94FA-DCECEB7644BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3925773A-82C2-4BB7-9E3B-CDE4DA0EBED9}
+	EndGlobalSection
+EndGlobal
